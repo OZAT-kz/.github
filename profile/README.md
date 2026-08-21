@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ OZAT Advanced Technology Studio
+# ⚡ OZAT Advanced Technology Lab
 ### *Enterprise Cloud Architecture, Applied AI Solutions & High-Load Web Systems*
 
 [![Website](https://img.shields.io/badge/Official_Website-ozat.kz-0F9D58?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ozat.kz)
